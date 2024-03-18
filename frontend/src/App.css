@@ -8,8 +8,8 @@
   margin: 20px auto;
   width: 30vw;
   height: 30vw;
-  border: 2px solid #000;
-  border-radius: 50%;
+  background: url(../public/dial.png) no-repeat;
+  background-size: 100%;
 }
 
 .hand {
